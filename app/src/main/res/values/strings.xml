@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quick Weather</string>
+    <string name="something_went_wrong_at_our_end">Something \nwent wrong \nat our end!.</string>
+    <string name="retry">Retry</string>
+<!--    <string name="apiKey">f7f5b4e692d70bd47fde1ad2b5b87e05</string>-->
+    <string name="apiKey">9b8cb8c7f11c077f8c4e217974d9ee40</string>
+</resources>
